@@ -1,0 +1,62 @@
+form{
+    border-style: groove;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:  50px;
+    padding-bottom: 50px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.514) ,rgba(255, 255, 255, 0.363)) ,url(../imagenes/inge2.jfif ) ;
+    background-repeat: no-repeat;
+     background-size:cover; 
+    background-position:center;
+    color: white;
+    
+   
+} 
+
+.bold{
+    font-weight: bold;
+}
+
+.red{
+    color: rgb(79, 165, 245);
+}
+
+.active{
+    color: black;
+    background-color: hwb(187 45% 2%);
+    font-size: larger;
+    font-family: 'Caprasimo', cursive;
+}
+
+/* body{
+    background-image: url(../imagenes/estudia.webp);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+
+a{
+    background-color: rgb(230, 184, 132);
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: arial;
+    padding: 20px 50px;
+    border-radius: 50px;
+
+
+    }
+/* .bo2{
+    background-image: url(../imagenes/inge2.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+/* p{
+    bottom: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+} */
+li{
+    background-size:auto;
+    background-position: center;
+    bottom: 50%;
+}
